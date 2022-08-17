@@ -1,0 +1,11 @@
+*.vvp
+synth.ys
+synth.v
+*.dot
+*.dot.pid
+*.vcd
+*.swp
+*.swo
+*.gtkw
+slpp_all/
+*_build/
